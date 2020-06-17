@@ -1,4 +1,4 @@
-# input-binding
+# Creating a blog
 
 ## Project setup
 ```
